@@ -1,5 +1,15 @@
-🔧 Money Manager Backend is a robust and scalable server-side application built using Node.js and Express.js, designed to power the core functionality of the Money Manager system.
+🔐 Secure RESTful API built with Node.js and Express.js
 
-🔐 It exposes a secure RESTful API that manages financial transactions, allowing the frontend application to seamlessly perform all essential operations such as creating, reading, updating, and deleting transaction records.
+➕ Create income and expense transactions
 
-⚙️ The backend is thoughtfully designed to handle real-world use cases efficiently, following clean architectural principles while ensuring reliable and consistent database communication.
+✏️ Update existing transaction records
+
+🗑 Delete transactions securely
+
+📄 Fetch all transactions with detailed data
+
+📊 Generate transaction summary (total income, total expense, balance)
+
+🌐 CORS-enabled for seamless frontend integration
+
+🗄 MongoDB-based persistent data storage
